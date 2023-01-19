@@ -57,8 +57,7 @@ def max_marks(list1):
 ![output](./Web%20capture_19-1-2023_13926_lms.ai.saveetha.ac.in.jpeg)
 
 ## Output:
-
-![output](./Web%20capture_19-1-2023_13431_lms.ai.saveetha.ac.in.jpeg)
+![output](./Web%20capture_19-1-2023_133645_lms.ai.saveetha.ac.in.jpeg)
 ![output](./Web%20capture_19-1-2023_132838_lms.ai.saveetha.ac.in.jpeg)
 ![output](./Web%20capture_19-1-2023_132858_lms.ai.saveetha.ac.in.jpeg)
 ## Result:
